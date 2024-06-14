@@ -30,3 +30,24 @@ In below screenshot I checked the entry for Redis Cache
 ![image](https://github.com/kamalmohan217/DevOps-Project-SpringBootApplication-rediscache-MySQLDB-Aws/assets/128888356/de97b283-88b5-40ca-ae10-6bfd24ed1fb6)
 <br><br/>
 The motive of this project is to show the advantage of implementing Redis Cache with MySQL database in an Application. Whenever we query any data then Application will connect with the Redis Cache and if it doesn't find the data in cache then it will connect with database and get the data. After geting the data from database it will make an entry in the Redis Cache for the same. So that next time if same data will be queried then Application will conect with Redis Cache and get the data rather than connecting with the database and getting the data and hence the latency for the request has been reduced.
+
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+```
+Source Code:- https://github.com/kamalmohan217/spring-rediscluster-cache-mysql.git
+```
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+```
+Reference:-  https://github.com/souravkantha/spring-redis-cache.git
+```
