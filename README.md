@@ -20,6 +20,7 @@
 8. Checked from database and found entry is present in the database table as shown in the screenshot below
 ![image](https://github.com/kamalmohan217/DevOps-Project-SpringBootApplication-rediscache-MySQLDB-Aws/assets/128888356/54a46bf9-49d4-4743-bf84-15371ec41953)
 9. Now Access the entry using GET method from POSTMAN and record the time as shown in the screenshot below
+![image](https://github.com/kamalmohan217/DevOps-Project-SpringBootApplication-rediscache-MySQLDB-Aws/assets/128888356/944aaa29-ef37-478b-9a92-359ff5c4480d)
 This is the first time we are accessing the data So Application will connect to database and provide the result and you can see from screenshot below the time taken 611ms.
 10. Finally Access the entry second time using GET method from POSTMAN and record the time as shown in the screenshot below
 ![image](https://github.com/kamalmohan217/DevOps-Project-SpringBootApplication-rediscache-MySQLDB-Aws/assets/128888356/286b231e-4123-40f0-ac7d-77da9369ea7c)
