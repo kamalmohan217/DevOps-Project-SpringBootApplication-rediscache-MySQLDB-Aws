@@ -5,4 +5,4 @@
 2. Now connect to the MySQL database and create database and table as required for the project.
 ![image](https://github.com/kamalmohan217/DevOps-Project-SpringBootApplication-rediscache-MySQLDB-Aws/assets/128888356/c943c9b0-8b3e-4dac-bb43-cdb390da20b3)
 ![image](https://github.com/kamalmohan217/DevOps-Project-SpringBootApplication-rediscache-MySQLDB-Aws/assets/128888356/cdc2b46f-5324-41c1-9161-335b24bec182)
-![Uploading image.png…]()
+![image](https://github.com/kamalmohan217/DevOps-Project-SpringBootApplication-rediscache-MySQLDB-Aws/assets/128888356/0e776fa9-ca0c-4a5d-a898-10eb9d5925da)
